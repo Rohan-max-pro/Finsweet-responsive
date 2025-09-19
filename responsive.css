@@ -319,7 +319,7 @@
         transition: width 1s linear, padding 1s linear;
     }
 
-    nav:hover #nav-items {
+    .hover-nav:hover #nav-items {
         width: 170px;
         visibility: visible;
         padding: 4em 2em;
